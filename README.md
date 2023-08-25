@@ -127,3 +127,4 @@
 | JavaScript  | [AULA](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) |
 | Curso de Python | [AULA](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) |
 | Data Analysis with R | [AULA](https://www.coursera.org/specializations/statistics) |
+| MATLAB | [AULA](https://www.youtube.com/playlist?list=PLlx81VEju6qAUUSE3M6NlFoFnrSSqR59-) |
