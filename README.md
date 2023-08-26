@@ -1,4 +1,4 @@
-# datasciencelearning Apredendo Sozinha(o)
+# datasciencelearning Aprendendo Sozinha(o)
 
 :loudspeaker: Primeiro crie seu cronograma!
 
