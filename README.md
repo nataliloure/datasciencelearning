@@ -36,6 +36,10 @@
 
 [Cardinalidade de Conjuntos](https://www.youtube.com/playlist?list=PL7RjLI0hJPfCb5aclT8L-TW8KFH-kBWvj)
 
+[Análise Real](https://www.youtube.com/playlist?list=PLDeB42P6f8ioB9jIUAogtPwzNb0QqstuF)
+
+[Análise Funcional](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTT2PceC9t0StGzLNIdGfFg)
+
 ----
 
 ## 📕MATERIAIS 
