@@ -111,6 +111,7 @@
 | DAG II Directed Acyclic Graphs - d' separation; algoritmo PC e IC | [AULA](https://www.youtube.com/watch?v=whNyDMlMvQA&list=PLZjaOxYREinsad8uE9WW-dK9FXhG9D3uj&index=24) |
 | DAG III - Aplicações do DAG, Propensity Scores e diff-n-diff | [AULA](https://www.youtube.com/watch?v=aIx3cJftm14&list=PLZjaOxYREinsad8uE9WW-dK9FXhG9D3uj&index=25) |
 | Cálculo de Amostra para SEM | [AULA](https://www.youtube.com/watch?v=ye1CDKyb-iA&list=PLZjaOxYREinsad8uE9WW-dK9FXhG9D3uj&index=26) |
+| Structural Equation Modeling (SEM) - CFA e Path Analysis - Aula Prática | [AULA](https://www.youtube.com/watch?v=f_fXWuCGssQ)
 
 ------------------
 
