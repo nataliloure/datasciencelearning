@@ -48,6 +48,8 @@
 - [Technique of Factor Analysis](https://www.nature.com/articles/136297b0?authuser=0)
 - [Why is the "central limit" a normal distribution?](https://www.youtube.com/watch?v=d_qvLDhkg00)
 - [How to tune LLMs in Generative AI Studio](https://www.youtube.com/watch?v=4A4W03qUTsw)
+- [rempsyc: Convenience functions for psychology ](https://joss.theoj.org/papers/10.21105/joss.05466)
+- [Quickly test linear regression assumptions](https://cran.r-project.org/web/packages/rempsyc/vignettes/assumptions.html#categorical-predictors) 
 
 -----
 
